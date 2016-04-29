@@ -8,7 +8,7 @@ eventsApp.controller('EventController',
         $scope.myclass = "blue";
         $scope.buttonDisabled = true;
         $scope.sortorder = 'name';
-        eventData.getEvents()
+        eventData.getEvent()
             .$promise
             .then(function(event) {$scope.event = event; console.log(event);})
             .catch(function(response) {console.log(response);});
