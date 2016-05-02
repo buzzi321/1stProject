@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="badd285d-621a-417a-83b9-3a7403738b2c" name="Local" url="http://localhost:8000">
+        <fileTransfer mountedRoot="C:\Sekhar DTV\Personal\Projects\WebStorm\1stProject\DemoApp\app" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
